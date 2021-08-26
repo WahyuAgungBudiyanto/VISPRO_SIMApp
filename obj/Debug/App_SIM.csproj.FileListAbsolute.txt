@@ -1,0 +1,10 @@
+D:\OneDrive - Universitas Klabat\Desktop\Semester 5\Vispro\QuizProject#1\App_SIM\bin\Debug\App_SIM.exe.config
+D:\OneDrive - Universitas Klabat\Desktop\Semester 5\Vispro\QuizProject#1\App_SIM\bin\Debug\App_SIM.exe
+D:\OneDrive - Universitas Klabat\Desktop\Semester 5\Vispro\QuizProject#1\App_SIM\bin\Debug\App_SIM.pdb
+D:\OneDrive - Universitas Klabat\Desktop\Semester 5\Vispro\QuizProject#1\App_SIM\obj\Debug\App_SIM.csproj.AssemblyReference.cache
+D:\OneDrive - Universitas Klabat\Desktop\Semester 5\Vispro\QuizProject#1\App_SIM\obj\Debug\App_SIM.FormMain.resources
+D:\OneDrive - Universitas Klabat\Desktop\Semester 5\Vispro\QuizProject#1\App_SIM\obj\Debug\App_SIM.Properties.Resources.resources
+D:\OneDrive - Universitas Klabat\Desktop\Semester 5\Vispro\QuizProject#1\App_SIM\obj\Debug\App_SIM.csproj.GenerateResource.cache
+D:\OneDrive - Universitas Klabat\Desktop\Semester 5\Vispro\QuizProject#1\App_SIM\obj\Debug\App_SIM.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universitas Klabat\Desktop\Semester 5\Vispro\QuizProject#1\App_SIM\obj\Debug\App_SIM.exe
+D:\OneDrive - Universitas Klabat\Desktop\Semester 5\Vispro\QuizProject#1\App_SIM\obj\Debug\App_SIM.pdb
